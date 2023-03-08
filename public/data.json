@@ -2,7 +2,7 @@
     "name": "Ben Krocké",
     "title": "Software Engineer",
     "contactDetails": {
-        "phone": "+61 0 480 445 347",
+        "phone": "+61 480 445 347",
         "email": "benkrocke@gmail.com",
         "address": "Surrey Hills, Melbourne",
         "linkedIn": "linkedin.com/in/benkrocke"
@@ -14,28 +14,28 @@
             "explanation": "An end-to-end agency and team of experts in communication and digital transformation",
             "period": "Aug 2021 - Dec 2022",
             "summary": [
-                "Built components into a .NET Sitecore platform for Dutch Distribution System Operator 'Enexis'",
-                "Utilised Sitecore Powershell Extension (SPE) to automate customer processes and generate custom reports, decreasing the amount of manual steps necessary for editor operations"
+                "Built and maintained .NET, React and Sitecore components for the website of Dutch energy regulator Enexis",
+                "Utilised Sitecore Powershell Extension (SPE) to automate processes and generate custom reports, decreasing the amount of manual steps necessary for editor operations"
             ]
         },
         {
-            "title": "Software Engineer, full-time",
+            "title": "Software Engineer, part-time to full-time",
             "companyName": "Fullcircle / Adabt",
-            "explanation": "B2B integrations for transport and logistics",
+            "explanation": "A software startup that later changed their core business model to B2B integrations for transport and logistics",
             "period": "May 2019 - Jul 2021",
             "summary": [
-                "Implemented data integrations between transport companies and their API protocols (SOAP, REST, etc.) greatly improving their scalability by decreasing integration costs",
-                "Responsible for developing an interactive website that can connect to a user's \"HappyBot\" product, allowing those on the Autism spectrum to more easily share and log their feelings"
+                "Implemented data integrations between transport companies and their API protocols, utilising Typescript and Google Cloud Functions, improving company scalability by greatly decreasing integration costs",
+                "Responsible for developing a Laravel/Vue website that can connect to a user's \"HappyBot\" product, allowing those on the autism spectrum to more easily share and log their emotions"
             ]
         },
         {
-            "title": "Software Engineer, freelance",
+            "title": "Software Engineer, part-time freelance",
             "companyName": "Dotcombusiness",
             "explanation": "IT automation for small- and medium-sized enterprises",
             "period": "Dec 2016 - Dec 2022",
             "summary": [
-                "Implemented a service ticket dashboard used to monitor incoming service calls and track deadlines, improving the workflow of service desk employees",
-                "Created an integration with SAP that enables customers to track service calls from a remote destination"
+                "Implemented a .NET service ticket dashboard used to monitor incoming service calls and track deadlines, improving service desk employee efficiency",
+                "Created a SAP integration with a Laravel website that enables customers to track their service tickets, decreasing the amount of helpdesk calls and inquiries"
             ]
         },
         {
@@ -44,7 +44,7 @@
             "explanation": "The digital government service of the Netherlands Ministry of the Interior and Kingdom Relations (BZK)",
             "period": "Jan 2020 - Jun 2020",
             "summary": [
-                "Implemented an improved publication process of technical documents by integrating a standard HTML format that through Respec (JS) converts the input to a national W3C specification format"
+                "Implemented an improved publication process of technical documents by integrating a standard HTML format that through Respec (JS) converts the input to the Dutch W3C specification format"
             ]
         },
         {
@@ -53,7 +53,7 @@
             "explanation": "The biggest supplier of consumer electronics and small domestic appliances in the Benelux region",
             "period": "Jun 2018 - Jan 2019",
             "summary": [
-                "Contributed to the Amacom 'Quecom' order and information system by reimplementing Zend 1 modules to a modern Magento application"
+                "Contributed to the Amacom 'Quecom' order and information system by updating modules written in Zend 1 to a modern Symphony implementation"
             ]
         },
         {
@@ -81,7 +81,7 @@
     "projects": [
         {
             "title": "CHIP-8 Emulator",
-            "summary": "A CHIP-8 emulator written in Rust utilizing a TDD approach"
+            "summary": "A CHIP-8 emulator written in Rust utilising a TDD approach"
         },
         {
             "title": "Prism",
@@ -91,6 +91,6 @@
     "skills": {
         "main": "JavaScript, C#, PHP, TypeScript",
         "other": "C++, Rust, SQL",
-        "tools": "React, Sitecore, .NET, Vue, Google Cloud"
+        "tools": "React, Sitecore, .NET, Laravel, Vue, Google Cloud"
     }
 }
